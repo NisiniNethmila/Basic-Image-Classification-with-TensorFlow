@@ -95,6 +95,6 @@ After completing this project, I gained practical experience in:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 This project was completed as part of a guided learning experience on Coursera to strengthen practical skills in **Machine Learning**, **Deep Learning**, and **Computer Vision** using TensorFlow and Keras.
